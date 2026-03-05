@@ -37,7 +37,6 @@
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **AI/ML**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -47,12 +46,10 @@
 
 - Kubernetes & Cloud Infrastructure
 - AI/ML Applications
-- Developer Tools
-- SaaS for SMBs
+- SaaS for observability, restaurants, and developer tools
 
 ## 📫 Connect
 
 - 🌐 [disputedojo.com](https://disputedojo.com)
 - 📧 dale@disputedojo.com
 - 📍 Austin, Texas
-
