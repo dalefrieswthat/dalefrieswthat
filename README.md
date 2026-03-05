@@ -9,7 +9,7 @@
 
 ## 🛠️ Open Source
 
-- **[Kubernetes](https://github.com/kubernetes/kubernetes)** — Open-source container orchestration platform. Contributor.
+- **[Kubernetes](https://github.com/kubernetes/kubernetes)** — Open-source container orchestration platform.
 - **[OpenClaw](https://github.com/openclaw/openclaw)** — Personal AI assistant platform
 - **[Kubed](https://github.com/dalefrieswthat/kubed)** — CLI productivity tool with autocompletion for Docker, Terraform, Helm & Kubernetes
 
