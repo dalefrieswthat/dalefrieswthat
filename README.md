@@ -15,7 +15,7 @@
 **Projects I contribute to**
 - **[Kubernetes](https://github.com/kubernetes/kubernetes)** — Open-source container orchestration platform.
 - **[OpenClaw](https://github.com/openclaw/openclaw)** — Personal AI assistant platform.
-- **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)** — Vendor-neutral observability data collection (e.g. [markdownlint CI](https://github.com/open-telemetry/opentelemetry-collector/pull/14715)).
+- **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)** — Vendor-neutral observability data collection and processing.
 
 ## 🧰 Tech Stack
 
