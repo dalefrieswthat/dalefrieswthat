@@ -6,6 +6,7 @@
 
 - **[Dispute Dojo](https://disputedojo.com)** — Dispute management for restaurants dealing with delivery app chargebacks
 - **[Prodway AI](https://prodway.ai)** — AI back-office tools for consultants: SOW generation, form auto-fill, automated invoicing
+- **[Spyglass AI](https://spyglass-ai.com)** — AI observability: monitor and debug AI systems in production
 
 ## 🛠️ Open Source
 
